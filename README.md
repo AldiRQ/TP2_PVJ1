@@ -3,3 +3,8 @@
 • Guía de Controles: se mueve con W,A,S,D y se salta con SPACE.
 • Detalle de Opcionales Elegidos: -------.
 • Capturas o GIFs: Al menos 2 imágenes mostrando el nivel en ejecución en Unity.
+
+
+PD: Se me complico hacer este practico por el Terrian Tools, ya que mi notebook no funciona completamente y se traba y reinicia. 
+Intente hacer lo mas que pude. Mi trabajo a la tarde tambien me complica un poco.
+Estoy haciendo el TP final desde ya para no atrazarme.
