@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 9d71988c73c118f459741059a9358846
+  productGUID: 0f88660738cb79849a701d9101831368
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "Tp\xB4s"
+  productName: TP02
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -852,14 +852,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: "Tp\xB4s"
+  metroPackageName: TP02
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: "Tp\xB4s"
+  metroApplicationDescription: TP02
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -930,10 +930,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 05a44c36-9677-4dbd-b773-78576e9a83f1
+  cloudProjectId: bba118da-e046-4c42-a128-67e3d129d8ee
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: "Tp\xB4s"
+  projectName: TP02
   organizationId: aldanarocio
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
